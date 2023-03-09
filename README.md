@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arunava Dutta</h1>
 <h3 align="center">Software Developer From India Trying To Learn Everyday.</h3>
 <img align="right" alt = "I Am Coding" width = "350" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt = "I Am Coding" width = "350" height = "200" src = "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunavacoderem&label=Profile%20views&color=0e75b6&style=flat" alt="arunavacoderem" /> </p>
