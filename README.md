@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 💬 Ask me about **Python, HTML, CSS, JAVASCRIPT, C**
+- 💬 Ask me about **PYTHON, HTML, CSS, JAVASCRIPT, C**
 
 - 📫 How to reach me **amiarunavadutta1000@gmail.com**
 
