@@ -1,38 +1,28 @@
 ![logo](https://github.com/ArunavaCoderEm/ArunavaCoderEm/blob/main/githubbanner.png)
-<h1 align="center">Hi 👋, I'm Arunava Dutta</h1>
-<h3 align="center">Software Developer From India Trying To Learn Everyday.</h3>
-<img align="right" alt = "I Am Coding" width = "350" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-<img align="right" alt = "I Am Coding" width = "350" height = "200" src = "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunavacoderem&label=Profile%20views&color=0e75b6&style=flat" alt="arunavacoderem" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on - MY PORTFOLIO WEBISTE.<br>👯 I’m looking to collaborate on - SOME WEB PROJECTS.<br>🤝 I’m looking for help with - DSA & APP DEVELOPMENT.<br>🌱 I’m currently learning - BACKEND & APP DEVELOPMENT.<br>💬 Ask me about - PYTHON, C, CPP, JavaScript, HTML, CSS.<br>⚡ Fun fact - FUNNY GUITARIST WITH SCREEN IN FRONT.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunavacoderem" alt="arunavacoderem" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/godutta" target="blank"><img src="https://img.shields.io/twitter/follow/godutta?logo=twitter&style=for-the-badge" alt="godutta" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/39uaVFMgEH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goduttaem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunava-dutta-2b94bb253/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/God_Ard) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@GoDutta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GoDutta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@godardEM) 
 
-- 🔭 I’m currently working on **My Portfolio Website**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArunavaCoderEm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArunavaCoderEm&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunavaCoderEm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **PYTHON, HTML, CSS, JAVASCRIPT, C**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ArunavaCoderEm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **amiarunavadutta1000@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- ⚡ Fun fact **Funny Guitarist With A Screen In front.**
-<img align="center" alt = "I Am Coding" width = "300" src = "https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/godutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="godutta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arunava-dutta-2b94bb253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunava-dutta-2b94bb253/" height="30" width="40" /></a>
-<a href="https://instagram.com/goduttaem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goduttaem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/god ard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="god ard" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arunavacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arunavacoder" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/39uaVFMgEH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/39uaVFMgEH" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ArunavaCoderEm&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&show_icons=true&locale=en&layout=compact" alt="arunavacoderem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunavacoderem&" alt="arunavacoderem" /></p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=ArunavaCoderEm&icon=6&color=7)](https://visitcount.itsvg.in)
