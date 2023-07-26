@@ -1,4 +1,4 @@
-<img src="githubbanner1.png">
+<img src="github.jpg">
 
 <h1>HOLA 🙏</h1>
 <h2>I am Arunava Dutta</h2>
