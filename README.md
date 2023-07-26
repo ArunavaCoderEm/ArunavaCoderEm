@@ -1,10 +1,10 @@
-<img src = "Godard_Banner.png">
+<img src="githubbanner1.png">
 
 <h1>HOLA 🙏</h1>
 <h2>I am Arunava Dutta</h2>
 
 # 💫 About Me:
-🔭 I’m currently working on - MY PORTFOLIO WEBISTE.<br>👯 I’m looking to collaborate on - SOME WEB PROJECTS.<br>🤝 I’m looking for help with - DSA & APP DEVELOPMENT.<br>🌱 I’m currently learning - BACKEND & APP DEVELOPMENT.<br>💬 Ask me about - PYTHON, C, CPP, JavaScript, HTML, CSS.<br>⚡ Fun fact - FUNNY GUITARIST WITH SCREEN IN FRONT.
+🔭 I’m currently working on - <b>MY PORTFOLIO WEBISTE.</b><br>👯 I’m looking to collaborate on - <b>SOME WEB PROJECTS.</b><br>🤝 I’m looking for help with - <b>DSA & APP DEVELOPMENT.</b><br>🌱 I’m currently learning - <b>BACKEND & APP DEVELOPMENT.</b><br>💬 Ask me about - <b>PYTHON, C, CPP, JavaScript, HTML, CSS.</b><br>⚡ Fun fact - <b>FUNNY GUITARIST WITH SCREEN IN FRONT.</b>
 
 
 ## 🌐 Socials:
