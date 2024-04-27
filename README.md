@@ -1,5 +1,5 @@
 <img src="./githubbannernew.png" alt = "GithubBannerGodArd">
-<h1 align="center">Hola ! 👋, I'm Arunava Dutta</h1>
+<h1 align="center">Hola !🙏🏼 , I'm Arunava Dutta</h1>
 <h3 align="center">Software Developer From India Trying To Learn Everyday.</h3>
 
 # 💫 About Me:
@@ -29,4 +29,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArunavaCoderEm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
