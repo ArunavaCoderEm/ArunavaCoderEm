@@ -1,5 +1,5 @@
 <img src="./ghlin.png" alt="GithubBannerGodArd">
-<h1 align="center">Hola ! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F2ZXcycGZ3bTNnajhxbzZ1MXFsNnk1cDllemo3bjI1bXc3MG9vOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" style="border-radius: 50%;" > , I'm Arunava Dutta</h1>
+<h1 align="center" text="red" >Hola ! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F2ZXcycGZ3bTNnajhxbzZ1MXFsNnk1cDllemo3bjI1bXc3MG9vOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" style="border-radius: 50%;" > , I'm Arunava Dutta</h1>
 <h3 align="center">Software Developer From India - Always A Learner.</h3>
 
 # 💫 About Me:
@@ -10,7 +10,7 @@
     <p>🌱 I’m currently learning - {Websocket, Flutter, WebRTC, Linux Shell ⭐}</p>
     <p>💬 Ask me about - {Software Development, Problem Solving & Much More ... ⭐}</p>
     <p>⚡ Fun fact - {Funny Guitarist With A Screen In Front ⭐}</p>
-    <p>🫠 Visit Me Here - <a href="https://godard.vercel.app/">{Godard 🫠}</a></p>
+    <p>🫠 Visit Me Here - <a href="https://godard.vercel.app/" target="_blank">{Godard 🫠}</a></p>
 </div>
 
 ## 🌐 Socials:
