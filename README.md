@@ -2,16 +2,16 @@
 <h1 align="center" text="red" >Hola ! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F2ZXcycGZ3bTNnajhxbzZ1MXFsNnk1cDllemo3bjI1bXc3MG9vOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" style="border-radius: 50%;" > , I'm Arunava Dutta</h1>
 <h3 align="center">Software Developer From India - Always A Learner.</h3>
 
-# 💫 About Me:
-  <div style="display:flex;">
-    <p>🔭 I’m currently working on - {My Own Voice Assistant For PC 'Alfred' ⭐}</p>
-    <p>👯 I’m looking to collaborate on - {Web Projects ⭐}</p>
-    <p>🤝 I’m looking for help with - {Back-end Development ⭐}</p>
-    <p>🌱 I’m currently learning - {Websocket, Flutter, WebRTC, Linux Shell ⭐}</p>
-    <p>💬 Ask me about - {Software Development, Problem Solving & Much More ... ⭐}</p>
-    <p>⚡ Fun fact - {Funny Guitarist With A Screen In Front ⭐}</p>
-    <p>🫠 Visit Me Here - <a href="https://godard.vercel.app/" target="_blank">{Godard 🫠}</a></p>
-</div>
+# 📚📚 About Me:
+  <ul style="display:flex;">
+    <li>🔭 I’m currently working on - {My Own Voice Assistant For PC 'Alfred' ⭐}</li>
+    <li>👯 I’m looking to collaborate on - {Web Projects ⭐}</li>
+    <li>🤝 I’m looking for help with - {Back-end Development ⭐}</li>
+    <li>🌱 I’m currently learning - {Websocket, Flutter, WebRTC, Linux Shell ⭐}</li>
+    <li>💬 Ask me about - {Software Development, Problem Solving & Much More ... ⭐}</li>
+    <li>⚡ Fun fact - {Funny Guitarist With A Screen In Front ⭐}</p>
+    <li>🫠 Visit Me Here - <a href="https://godard.vercel.app/" target="_blank">{Godard 🫠}</a></li>
+</ul>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/39uaVFMgEH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@goduttaem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arunava-dutta-2b94bb253/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/God_Ard) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Realgodard04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GoDutta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@godardEM) [![Leetcode](https://img.shields.io/badge/Leetcode-FCC624.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/Arunava_Dutta/)
