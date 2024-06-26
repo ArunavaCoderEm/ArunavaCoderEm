@@ -30,6 +30,10 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=arunavacoderem&limit=5&theme=nord&combine_all_yearly_contributions=true" height="200" alt="Top Contributed Repo" />
 </p>
 
+## 🧑🏽‍💻 My Leetcode
+
+<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Arunava_Dutta?theme=nord&font=raleway&radius=10" /></div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArunavaCoderEm&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
