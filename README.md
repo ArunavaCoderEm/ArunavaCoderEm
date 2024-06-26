@@ -21,18 +21,18 @@
 
 ## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arunavacoderem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunavacoderem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" width="370" height="220" alt="stats graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=nord&hide_border=false&hide_progress=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=nord&hide_border=false&hide_progress=true" width="370" height="200" alt="languages graph"  />
 
-  <img src="https://streak-stats.demolab.com?user=arunavacoderem&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=arunavacoderem&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5" width="370" height="220" alt="streak graph"  />
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=arunavacoderem&limit=5&theme=nord&combine_all_yearly_contributions=true" height="200" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=arunavacoderem&limit=5&theme=nord&combine_all_yearly_contributions=true" width="370" height="200" alt="Top Contributed Repo" />
 </p>
 
-## 🧑🏽‍💻 My Leetcode
+## 🧑🏽‍💻 My Leetcode:
 
-<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Arunava_Dutta?theme=nord&font=raleway&radius=10" /></div>
+<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Arunava_Dutta?theme=nord&font=raleway&radius=10" width="370"/></div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArunavaCoderEm&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
