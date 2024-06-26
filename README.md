@@ -126,6 +126,9 @@
     <a href="https://filmora.wondershare.com/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Filmora-%23000000.svg?style=for-the-badge" alt="Filmora">
     </a>
+    <a href="https://filmora.wondershare.com/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Waveform-%23000000.svg?style=for-the-badge" alt="Waveform">
+    </a>
 </div>
 
 ### Deployment stack
