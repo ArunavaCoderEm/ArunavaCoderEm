@@ -3,6 +3,8 @@
 <h3 align="center">Software Developer From India - Always A Learner.</h3>
 
 ## 📚📚 About Me:
+<h6 align="right" margin="50">Coding isn't typing it's mostly thinking</h6>
+<image align="right" padd  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNkY2Q4MDlrNWgybnJyYjExNnB4NjJvNnUyZGd5ZW96OGFrdTFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="35%" alt="code">
   <ul style="display:flex;">
     <li>🔭 I’m currently working on - {My Own Voice Assistant For PC 'Alfred' ⭐}</li>
     <li>👯 I’m looking to collaborate on - {Web Projects ⭐}</li>
