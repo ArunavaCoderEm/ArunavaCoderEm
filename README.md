@@ -31,17 +31,10 @@
 </p>
 
 ## 🧑🏽‍💻 My Leetcode:
-
 <div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Arunava_Dutta?theme=nord&font=raleway&radius=10" width="370"/></div>
-
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArunavaCoderEm&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-<div style="display: flex;">
-  <div style="width: 50%;">  <h3><span style="text-align: left;">✍️ Random Dev Quote</span></h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" alt="Random Dev Quote" />
-  </div>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArunavaCoderEm&icon=0&color=0)](https://visitcount.itsvg.in)
