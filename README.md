@@ -14,7 +14,7 @@
     <li>🌱 I’m currently learning - {Websocket, Flutter, WebRTC, Linux Shell ⭐}</li>
     <li>💬 Ask me about - {Software Development, Problem Solving & Much More ... ⭐}</li>
     <li>⚡ Fun fact - {Funny Guitarist With A Screen In Front ⭐}</p>
-    <li>🫠 Visit Me Here - <a href="https://godard.vercel.app/" target="_blank">{Godard 🫠}</a></li>
+    <li>🫠 Visit Me Here - <a href="https://meard.vercel.app/" target="_blank">{Godard 🫠}</a></li>
 </ul>
 
 ---
