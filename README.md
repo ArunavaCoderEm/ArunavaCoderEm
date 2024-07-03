@@ -1,4 +1,4 @@
-<img src="./ghlin.png" alt="GithubBannerGodArd">
+<img src="./meard.vercel.app.png" alt="GithubBannerGodArd">
 <h1 align="center" text="red" >Hola ! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F2ZXcycGZ3bTNnajhxbzZ1MXFsNnk1cDllemo3bjI1bXc3MG9vOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" style="border-radius: 50%;" > , I'm Arunava Dutta</h1>
 <h3 align="center">Software Developer From India - Always A Learner.</h3>
 
