@@ -5,8 +5,7 @@
 ---
 
 ## 📚📚 About Me:
-<h6 align="right" margin="50">Solutions are crafted, and logic is built.</h6>
-<image align="right" padd  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNkY2Q4MDlrNWgybnJyYjExNnB4NjJvNnUyZGd5ZW96OGFrdTFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="35%" alt="code">
+
   <ul style="display:flex;">
     <li>🔭 I’m currently working on - {My Own Voice Assistant For PC 'Alfred' ⭐}</li>
     <li>👯 I’m looking to collaborate on - {Web Projects ⭐}</li>
@@ -22,6 +21,20 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/39uaVFMgEH) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/goduttaem/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunava-dutta-2b94bb253/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/God_Ard) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Realgodard04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GoDutta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@godardEM) [![Leetcode](https://img.shields.io/badge/Leetcode-FCC624.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/Arunava_Dutta/)
 
+---
+
+## 🎷🎶 What I'm Listening To !
+
+<div align=center>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o4vbk6nga4rdunsmpz5gsazppa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<h6 align="right" margin="50">Solutions are crafted, and logic is built.</h6>
+
+<image align="right" padd  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNkY2Q4MDlrNWgybnJyYjExNnB4NjJvNnUyZGd5ZW96OGFrdTFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="35%" alt="code">
+  
 ---
 
 ## 🖥️ My Workstation
