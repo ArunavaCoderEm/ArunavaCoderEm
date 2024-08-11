@@ -23,7 +23,7 @@
 
 ---
 
-## 🎷🎶 What I'm Listening To !
+## 🎷🎶 What I'm Listening To:
 
 <div align=center>
   
@@ -37,7 +37,7 @@
   
 ---
 
-## 🖥️ My Workstation
+## 🖥️ My Workstation:
 - **Processor:** Intel Core i5-10300H
 - **RAM:** 16GB
 - **Graphics Card:** GeForce GTX 1650 Ti 4GB
@@ -134,7 +134,7 @@
     <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     </a>
-        <a href="#" style="margin: 5px;">
+    <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=red" alt="Firebase">
     </a>
 </div>
@@ -191,14 +191,14 @@
 
 ---
 
-## ✒️ Random Dev Quote
+## ✒️ Random Dev Quote:
 <p align="middle" position="absolute">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quotes">
 </p>
 
 ---
   
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <div align="middle">
   <a href="https://github-profile-trophy.vercel.app">
     <img src="https://github-profile-trophy.vercel.app/?username=ArunavaCoderEm&theme=nord&no-frame=false&no-bg=false&margin-w=4" alt="Github Stats">
