@@ -78,8 +78,8 @@
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
     </a>
    <a href="https://vitejs.dev/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Vite-%23000000.svg?style=for-the-badge" alt="Vite">
-    </a>
+        <img src="https://img.shields.io/badge/Vite-%236f42c1.svg?style=for-the-badge" alt="Vite">
+   </a>
         <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     </a>
@@ -100,10 +100,10 @@
         <img src="https://img.shields.io/badge/websocket-%230080FF.svg?style=for-the-badge&logo=websocket" alt="WebSocket">
     </a>
     <a href="https://webrtc.org/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/WebRTC-%23000000.svg?style=for-the-badge" alt="WebRTC">
+        <img src="https://img.shields.io/badge/WebRTC-%23007bff.svg?style=for-the-badge" alt="WebRTC">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/hono.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Hono.js">
+        <img src="https://img.shields.io/badge/hono.js-%23F38020.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Hono.js">
     </a>
     <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
@@ -124,6 +124,9 @@
     <a href="#">
         <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     </a>
+  <a href="https://redux.js.org/" style="text-decoration: none;">
+     <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge" alt="Redux">
+  </a>
 </div>
 
 ### Database stack
@@ -145,10 +148,10 @@
         <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
     </a>
     <a href="https://filmora.wondershare.com/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Filmora-%23000000.svg?style=for-the-badge" alt="Filmora">
+        <img src="https://img.shields.io/badge/Filmora-%23007bff.svg?style=for-the-badge" alt="Filmora">
     </a>
     <a href="https://filmora.wondershare.com/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Waveform-%23000000.svg?style=for-the-badge" alt="Waveform">
+        <img src="https://img.shields.io/badge/Waveform-%236c757d.svg?style=for-the-badge" alt="Waveform">
     </a>
 </div>
 
@@ -161,8 +164,11 @@
         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
     </a>
     <a href="#" style="margin: 5px;">
-        <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge" alt="Render">
+        <img src="https://img.shields.io/badge/Render-%236f42c1.svg?style=for-the-badge" alt="Render">
     </a>
+<a href="https://www.cloudflare.com/" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge" alt="Cloudflare">
+</a>
 </div>
 
 ---
