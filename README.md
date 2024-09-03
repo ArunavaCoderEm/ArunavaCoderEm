@@ -127,6 +127,9 @@
   <a href="https://redux.js.org/" style="text-decoration: none;">
      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge" alt="Redux">
   </a>
+  <a href="https://clerk.dev/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Clerk-%230a3d91.svg?style=for-the-badge" alt="Clerk">
+  </a>
 </div>
 
 ### Database stack
@@ -137,6 +140,9 @@
     <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=red" alt="Firebase">
     </a>
+  <a href="https://supabase.com/" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Supabase-%234CAF50?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  </a>
 </div>
 
 ### Editing stack
