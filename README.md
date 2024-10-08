@@ -144,8 +144,8 @@
     <img src="https://img.shields.io/badge/Supabase-%234CAF50?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   </a>
   <a href="https://convex.com/" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Convex%234CAF50?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
-  </a>
+    <img src="https://img.shields.io/badge/Convex-4CAF50?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
+</a>
 </div>
 
 ### Editing stack
