@@ -137,7 +137,13 @@
     <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     </a>
-    <a href="#" style="margin: 5px;">
+  <a href="#" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="#" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Neon-%2302a3e6.svg?style=for-the-badge&logo=neon&logoColor=white" alt="NeonDB">
+  </a>
+  <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=red" alt="Firebase">
     </a>
   <a href="https://supabase.com/" style="margin: 5px;">
