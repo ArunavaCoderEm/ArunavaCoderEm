@@ -105,9 +105,6 @@
     <a href="#">
         <img src="https://img.shields.io/badge/hono.js-%23F38020.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Hono.js">
     </a>
-    <a href="#" style="margin: 5px;">
-        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-    </a>
 </div>
 
 ### Libraries stack
@@ -130,6 +127,9 @@
   <a href="https://clerk.dev/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Clerk-%230a3d91.svg?style=for-the-badge" alt="Clerk">
   </a>
+  <a href="https://www.prisma.io/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+  </a>
 </div>
 
 ### Database stack
@@ -146,12 +146,9 @@
   <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=red" alt="Firebase">
     </a>
-  <a href="https://supabase.com/" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Supabase-%234CAF50?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  </a>
   <a href="https://convex.com/" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Convex-4CAF50?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
-</a>
+  </a>
 </div>
 
 ### Editing stack
