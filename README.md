@@ -146,8 +146,8 @@
   <a href="#" style="margin: 5px;">
         <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=red" alt="Firebase">
     </a>
-  <a href="https://convex.com/" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Convex-4CAF50?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
+  <a href="https://supabase.com/" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Supabase-4CAF50?style=for-the-badge&logo=convex&logoColor=white" alt="Supabase">
   </a>
 </div>
 
