@@ -4,6 +4,17 @@
 
 ---
 
+## Projects Table
+
+| Name              | GitHub Link                                                     | Live Link                        |
+|-------------------|-----------------------------------------------------------------|----------------------------------|
+| RepxAI            | [Repo_RepxAi](https://github.com/Rep-X-AI/repx-ai)              | [Live](https://project1.com)     |
+| StudyGenie        | [Repo_StudyGenie](https://github.com/CodeFusers/frontend)       | [Live](https://project2.com)     |
+| KhetiSathi        | [Repo_KhetiSathi](https://github.com/SIH-CodeFusers/AIgro)      | [Live](https://project3.com)     |
+| Edemy             | [Repo_Edemy](https://github.com/eDemy-SIH/Deployed-Website)     | [Live](https://project4.com)     |
+
+---
+
 ## 📚📚 About Me:
 
   <ul style="display:flex;">
