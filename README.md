@@ -198,27 +198,23 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunavacoderem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" width="370" height="220" alt="stats graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=nord&hide_border=false&hide_progress=true" width="370" height="200" alt="languages graph"  />
-
-  <img src="https://streak-stats.demolab.com/?user=ArunavaCoderEm&theme=dark&hide_border=true" width="370" height="220" alt="streak graph"  />
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=arunavacoderem&limit=5&theme=nord&combine_all_yearly_contributions=true" width="370" height="200" alt="Top Contributed Repo" />
-</p>
-
----
-
-## 🧑🏽‍💻 My Leetcode:
-<div style="display: flex; align-items: center; justify-content: center;" align="middle"><img src="https://leetcard.jacoblin.cool/Arunava_Dutta?theme=nord&font=raleway&radius=10" width="370"/></div>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=ArunavaCoderEm&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunavaCoderEm&layout=compact&show_icons=true&theme=react" alt="GODARD STATS" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=nord&hide_border=false&hide_progress=true" alt="GODARD TOP LANG" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ArunavaCoderEm&theme=merko" alt="GODARD GRAPH" width="60%" />
+</div>
 
 ---
 
-## ✒️ Random Dev Quote:
-<p align="middle" position="absolute">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quotes">
-</p>
+## ✒️ Dev Quote & Leetcode:
+<div>
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quotes" height="100%" width="48%" />
+  <img align="center" src="https://leetcard.jacoblin.cool/Arunava_Dutta?theme=nord&font=raleway&radius=10" width="51%"/>
+</div>
 
 ---
   
