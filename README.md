@@ -58,13 +58,16 @@
 ---
 
 ## 💻 Tech Stack:
-| Coding Language Stack | Frontend Stack | Backend Stack | Libraries Stack | Database Stack | Editing Stack | Deployment Stack |
+| Coding | Frontend | Backend | Libraries | Database | Editing | Deployment |
 |-----------------------|----------------|---------------|-----------------|----------------|---------------|-------------------|
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![WebSocket](https://img.shields.io/badge/websocket-%230080FF.svg?style=for-the-badge&logo=websocket) | ![Seaborn](https://img.shields.io/badge/seaborn-%23007ACC.svg?style=for-the-badge&logo=seaborn&logoColor=white) | ![NeonDB](https://img.shields.io/badge/Neon-%2302a3e6.svg?style=for-the-badge&logo=neon&logoColor=white) | ![Filmora](https://img.shields.io/badge/Filmora-%23007bff.svg?style=for-the-badge) | ![Render](https://img.shields.io/badge/Render-%236f42c1.svg?style=for-the-badge) |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-%236f42c1.svg?style=for-the-badge) | ![WebRTC](https://img.shields.io/badge/WebRTC-%23007bff.svg?style=for-the-badge) | ![scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=red) | ![Waveform](https://img.shields.io/badge/Waveform-%236c757d.svg?style=for-the-badge) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge) |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Hono.js](https://img.shields.io/badge/hono.js-%23F38020.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge) | ![Supabase](https://img.shields.io/badge/Supabase-4CAF50?style=for-the-badge&logo=convex&logoColor=white) | | |
+| | ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) | | ![Prisma](https://img.shields.io/badge/Prisma-%231e3a8a.svg?style=for-the-badge&logo=prisma&logoColor=white) | |
+| | ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | | ![Clerk](https://img.shields.io/badge/Clerk-%232C3E50.svg?style=for-the-badge&logo=clerk&logoColor=white) | | | |
+
 
 ---
 
@@ -75,7 +78,7 @@
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=nord&hide_border=false&hide_progress=true" alt="GODARD TOP LANG" width="39%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=react&hide_border=false&hide_progress=true" alt="GODARD TOP LANG" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ArunavaCoderEm&theme=merko" alt="GODARD GRAPH" width="60%" />
 </div>
 
