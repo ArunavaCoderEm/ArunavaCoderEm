@@ -233,6 +233,6 @@
 
 <div align="middle">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ArunavaCoderEm&icon=0&color=6" alt="Visit Count">
+    <img src="https://komarev.com/ghpvc/?username=ArunavaCoderEm&color=blueviolet&style=for-the-badge&label=God+Views&abbreviated=true" alt="Visit Count">
   </a>
 </div>
