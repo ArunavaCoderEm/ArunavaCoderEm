@@ -203,7 +203,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavacoderem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=nord&hide_border=false&hide_progress=true" width="370" height="200" alt="languages graph"  />
 
-  <img src="https://streak-stats.demolab.com?user=arunavacoderem&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5" width="370" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=ArunavaCoderEm&theme=dark&hide_border=true" width="370" height="220" alt="streak graph"  />
 
   <img src="https://github-contributor-stats.vercel.app/api?username=arunavacoderem&limit=5&theme=nord&combine_all_yearly_contributions=true" width="370" height="200" alt="Top Contributed Repo" />
 </p>
