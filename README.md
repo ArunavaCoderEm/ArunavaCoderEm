@@ -4,14 +4,15 @@
 
 ---
 
-## Projects Table
+## 💹💹 Projects Table:
 
-| Name              | GitHub Link                                                     | Live Link                        |
-|-------------------|-----------------------------------------------------------------|----------------------------------|
-| RepxAI            | [Repo_RepxAi](https://github.com/Rep-X-AI/repx-ai)              | [Live](https://project1.com)     |
-| StudyGenie        | [Repo_StudyGenie](https://github.com/CodeFusers/frontend)       | [Live](https://project2.com)     |
-| KhetiSathi        | [Repo_KhetiSathi](https://github.com/SIH-CodeFusers/AIgro)      | [Live](https://project3.com)     |
-| Edemy             | [Repo_Edemy](https://github.com/eDemy-SIH/Deployed-Website)     | [Live](https://project4.com)     |
+| Name              | GitHub Link                                                     | Live Link                                                 |
+|-------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
+| RepxAI            | [Repo_RepxAi](https://github.com/Rep-X-AI/repx-ai)              | [Live_RepxAi](https://repxai.vercel.app/)                 |
+| StudyGenie        | [Repo_StudyGenie](https://github.com/CodeFusers/frontend)       | [Live_StudyGenie](https://studygenie-cf.vercel.app/)      |
+| KhetiSathi        | [Repo_KhetiSathi](https://github.com/SIH-CodeFusers/AIgro)      | [Live_KhetiSathi](https://khetisathi-4286.pages.dev/)     |
+| Edemy             | [Repo_Edemy](https://github.com/eDemy-SIH/Deployed-Website)     | [Live_Edemy](https://edvance-32175.vercel.app/index.html) |
+| FinnoFarms        | [Repo_FinnoFarms](https://github.com/Finno-Farms/FinnoFarms)    | [Live_FinnoFarms](https://finnofarms.in/)                 |
 
 ---
 
