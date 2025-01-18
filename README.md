@@ -19,14 +19,14 @@
 ## 📚📚 About Me:
 
   <ul style="display:flex;">
-    <li>🔭 I’m currently working on - {My Own Voice Assistant For PC 'Alfred' ⭐}</li>
+    <li>🔭 I’m currently working on - {SAASs ⭐}</li>
     <li>👯 I’m looking to collaborate on - {Web Projects ⭐}</li>
     <li>🤝 I’m looking for help with - {Back-end Development ⭐}</li>
     <li>🌱 I’m currently learning - {Websocket, Flutter, WebRTC, Linux Shell ⭐}</li>
-    <li>💬 Ask me about - {Software Development, Problem Solving & Much More ... ⭐}</li>
+    <li>💬 Ask me about - {Software Development, Problem Solving & Much More. ⭐}</li>
     <li>⚡ Fun fact - {Funny Guitarist With A Screen In Front ⭐}</p>
     <li>🫠 Visit Me Here - <a href="https://meard.vercel.app/" target="_blank">{Godard 🫠}</a></li> 
-</ul>
+ </ul>
 
 ---
 
