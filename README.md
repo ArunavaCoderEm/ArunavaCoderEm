@@ -73,7 +73,7 @@
 
 ## 📊 GitHub Stats:
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=ArunavaCoderEm&theme=react" width="51%" />
+  <img align="center" src="" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunavaCoderEm&layout=compact&show_icons=true&theme=react" alt="GODARD STATS" width="48%" />
 </div>
 <br />
